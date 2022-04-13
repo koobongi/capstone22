@@ -1,6 +1,7 @@
 팀명 : 3년<br />
 팀원 : 원강희(디자인) , 구본기(웹) <br />
-소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정)
+소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정) <br />
+개발환경 : eclipse
 
 
 # 0413
