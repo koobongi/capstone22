@@ -3,6 +3,9 @@
 소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정) <br />
 개발환경 : eclipse
 
+
+# 0504
+DB 오류해결
 # 0427
 디비버를 사용한 DB연동
 # 0413
