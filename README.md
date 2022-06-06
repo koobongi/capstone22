@@ -4,10 +4,17 @@
 개발환경 : eclipse dbeaver
 
 # 0606
+![4](https://user-images.githubusercontent.com/79895929/172161842-09879223-fe0b-48bd-bb03-93e53378a531.png) <br />
+![5](https://user-images.githubusercontent.com/79895929/172161847-76438bc6-40ef-4f43-a97a-11cd9ed02809.png) <br />
+맞는 값을 넣으면 로그인 성공
+<br />
 ![2](https://user-images.githubusercontent.com/79895929/172161721-659beb75-1157-4733-b58f-7d8702907a8b.png) <br />
 ![3](https://user-images.githubusercontent.com/79895929/172161725-13343a64-35f2-49d0-9e65-073e6272a1f4.png) <br />
+다른 값을 넣으면 일치하지않는다고 뜨며 로그인불가
+<br />
 ![KakaoTalk_20220606_213405509](https://user-images.githubusercontent.com/79895929/172161594-1b5691de-a6f2-4048-a170-f56a51e6fe13.png) <br />
-mysql 재설치 / 테이블 임의값으로 로그인화면 만들고 db연동 후 db값으로 로그인되는지 안되는지 구현
+mysql 재설치 / 테이블 임의값으로 로그인화면 만들고 db연동 후 db값으로 로그인되는지 안되는지 구현 <br />
+로그인 넘어가는 화면이랑 회원가입은 현재 구현중
 # 0605
 최종 포스터제작 및 ppt 제작 미구현기능 
 # 0504
