@@ -3,7 +3,7 @@
 소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정) <br />
 개발환경 : eclipse dbeaver
 
-# 0605
+# 0606
 ![2](https://user-images.githubusercontent.com/79895929/172161721-659beb75-1157-4733-b58f-7d8702907a8b.png) <br />
 ![3](https://user-images.githubusercontent.com/79895929/172161725-13343a64-35f2-49d0-9e65-073e6272a1f4.png) <br />
 ![KakaoTalk_20220606_213405509](https://user-images.githubusercontent.com/79895929/172161594-1b5691de-a6f2-4048-a170-f56a51e6fe13.png) <br />
