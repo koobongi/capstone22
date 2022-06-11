@@ -3,6 +3,12 @@
 소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정) <br />
 개발환경 : eclipse mysql
 
+# 0611
+
+디자인 파일을 eclipse jsp에 적용
+![image](https://user-images.githubusercontent.com/79895929/173181275-ab2d64c4-12c5-4faf-a7d0-db587663d61b.png) <br />
+
+
 # 0606
 ![4](https://user-images.githubusercontent.com/79895929/172161842-09879223-fe0b-48bd-bb03-93e53378a531.png) <br />
 ![5](https://user-images.githubusercontent.com/79895929/172161847-76438bc6-40ef-4f43-a97a-11cd9ed02809.png) <br />
