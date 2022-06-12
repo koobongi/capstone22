@@ -3,6 +3,10 @@
 소개사이트 : https://wkh201840218.github.io/capstone22/ (추후 수정예정) <br />
 개발환경 : eclipse mysql
 
+# 0612
+![image](https://user-images.githubusercontent.com/79895929/173221840-c348af0c-7a7e-4b90-9634-0ef85636ddc5.png) <br />
+로그아웃 기능 추가
+
 # 0611
 
 디자인 파일을 eclipse jsp에 적용 및 로그인 회원가입 기능 테스트 <br />
