@@ -18,10 +18,23 @@
 <body>
 
 	<%
+		String userID = null;
+		if(session.getAttribute("userID") != null){
+			userID = (String) session.getAttribute("userID");
+		}
+		if(userID != null){
+			PrintWriter script = response.getWriter();
+			script.println("<script>");
+			script.println("alert('이미 로그인이 되어있습니다.') ");
+			script.println("location.href = 'index.jsp' ");
+			script.println("</script>");
+		}
+	
 		Test_DAO test_Dao = new Test_DAO();
 		int result = test_Dao.login(user.getUserID(), user.getUserPassword());
 		
 		if(result == 1){
+			session.setAttribute("userID", user.getUserID());
 			PrintWriter script = response.getWriter();
 			script.println("<script>");
 			script.println("alert('로그인에 성공했습니다.') ");
